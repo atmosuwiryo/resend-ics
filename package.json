@@ -5,6 +5,7 @@
     "dev": "ts-node index.ts"
   },
   "dependencies": {
+    "ics": "^3.7.6",
     "resend": "^3.0.0"
   },
   "devDependencies": {
